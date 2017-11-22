@@ -1,0 +1,30 @@
+/* CSS Document */
+#headerExtra{
+	height: 100px;
+	background-image: url(../img/backGround.png);
+	background-repeat: repeat-x;
+}
+
+#mainContent{
+	height: 1000px;
+	background-image: url(../img/bg1.jpg);
+	background-repeat: repeat-x;
+	background-color: white;
+}
+
+#footerContent{
+	height: 100px;
+	background-image: url(../img/footerBackground.png);
+	background-repeat: repeat-x;
+}
+
+#container{
+	width: 975px;
+	height:300px;
+	top: 200px;
+	background-color: aqua;
+	
+}
+	
+
+
