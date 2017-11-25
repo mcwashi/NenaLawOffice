@@ -18,11 +18,12 @@
 	background-repeat: repeat-x;
 }
 
-#container{
+#middleContent{
 	width: 975px;
 	height:300px;
-	top: 200px;
 	background-color: aqua;
+	margin: 0 auto;
+	padding-top: 300px;
 	
 }
 	
