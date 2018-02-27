@@ -71,6 +71,10 @@ li a:hover:not(.active) {
 	color: white;
 }
 
+p {
+	margin-left: 5px;
+}
+
 #leftMiddleContent {
 	border: solid thin #000000;
 	background-color: white;
