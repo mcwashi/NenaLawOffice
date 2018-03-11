@@ -37,9 +37,7 @@
 #middleContent {
 	width: 975px;
 	height: 300px;
-	background-image: url(../img/Header.png);
 	margin: 0 auto;
-	padding-top: 300px;
 }
 
 #bucket {
@@ -118,7 +116,7 @@ p {
 	bottom: 10px;
 }
 
-#leftQuote{
+#leftQuote {
 	position: absolute;
 	z-index: 0;
 	top: -10px;
@@ -127,7 +125,7 @@ p {
 	width: 75px;
 }
 
-#rightQuote{
+#rightQuote {
 	position: absolute;
 	z-index: 0;
 	top: 100px;
